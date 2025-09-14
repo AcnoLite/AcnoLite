@@ -29,7 +29,6 @@ Mostly Python & Web Dev | Learning JavaScript
 - [Atlas](https://github.com/AcnoLite/atlas) — My OSINT app for digital investigations.
 - [Corely](https://github.com/SNAPY-INC/corely) — Project I’m proud to be a part of!
 - [Some Batch Projects](https://github.com/AcnoLite/Some-Batch-Projets) — Small experiments & batch scripts.
-- [Projet Robot Sumo](https://github.com/AcnoLite/Projet-Robot-Sumo) — Robotics fun!
 
 ---
 
