@@ -8,7 +8,6 @@
 
 - 📚 Student, passionate about tech and building things that actually work.
 - 🔭 Currently working on a personal project — something in the social space. More details when it's ready.
-- 🎯 Moving away from vibe coding, toward purposeful and well-structured builds.
 - 📸 Also into photography when I'm not coding.
 
 ---
